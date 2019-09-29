@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartURL>file:///C:/Users/Dariel/documents/visual%2520studio%25202015/Projects/P5Test/P5Test/index.html</StartURL>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartProgram>C:\Program Files %28x86%29\Google\Chrome\Application\Chrome.exe</StartProgram>
+    <StartArguments>file:///C:\Users\Dariel\Dropbox\Projects\P5Test\index.html</StartArguments>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+</Project>
