@@ -58,6 +58,7 @@
     <Content Include="js\jquery-3.1.0.js" />
     <Content Include="js\p5.js" />
     <Content Include="js\p5.min.js" />
+    <Content Include="js\planetsimulator.js" />
     <Content Include="js\scripts.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
